@@ -1,0 +1,6 @@
+framework module Pods_WeCodeJumpstart {
+  umbrella header "Pods-WeCodeJumpstart-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WeCodeJumpstartTests {
+  umbrella header "Pods-WeCodeJumpstartTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
